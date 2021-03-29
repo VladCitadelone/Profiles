@@ -1,10 +1,10 @@
 {
-  "name": "contributor-name",
+  "name": "Citadel.one",
   "contact": {
-    "email": "",
-    "telegram": "@your-telegram-handle",
-    "wechat": "@your-wechat-handle",
-    "discord": "@your-discord-handle"
+    "email": "strategy@citadel.one or support@citadel.one",
+    "telegram": "@citadelofficial",
+    "twitter": "@CitadelDAO",
+    "github": "@citadeldao"
   },
-  "website": "https://www.example.com/"
+  "website": "https://www.citadel.one/"
 }
